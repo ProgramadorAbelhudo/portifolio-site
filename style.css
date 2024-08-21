@@ -185,7 +185,6 @@ footer {
     transition: opacity 0.5s ease-out, transform 0.5s ease-out;
 }
 
-.project-card.fade-in {
-    opacity: 1;
-    transform: translateY(0);
+.obs {
+font-size: 10px;
 }
